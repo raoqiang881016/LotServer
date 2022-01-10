@@ -3,24 +3,24 @@
 ## 常规自动安装
 
 ```
-bash <(wget --no-check-certificate -qO- https://github.com/iiiiiii1/LotServer/raw/master/Install.sh) install
+bash <(wget --no-check-certificate -qO- https://github.com/raoqiang881016/LotServer/raw/master/Install.sh) install
 ```
 
 ## 指定内核安装
 
 ```
-bash <(wget --no-check-certificate -qO- https://github.com/iiiiiii1/LotServer/raw/master/Install.sh) install <Kernel Version>
+bash <(wget --no-check-certificate -qO- https://github.com/raoqiang881016/LotServer/raw/master/Install.sh) install <Kernel Version>
 ```
 
 ## 完全卸载
 
 ```
-bash <(wget --no-check-certificate -qO- https://github.com/iiiiiii1/LotServer/raw/master/Install.sh) uninstall
+bash <(wget --no-check-certificate -qO- https://github.com/raoqiang881016/LotServer/raw/master/Install.sh) uninstall
 ```
 
 ## 调教手册
 
-https://github.com/iiiiiii1/LotServer/blob/master/lotServer.pdf
+https://github.com/raoqiang881016/LotServer/blob/master/lotServer.pdf
 
 ## 使用方法
 
